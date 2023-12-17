@@ -593,12 +593,12 @@ p {
   z-index: 1; }
 
 ::-moz-selection {
-  background: #d16262;
+  background: #4363ae;
   text-shadow: none;
   color: #FFFFFF; }
 
 ::selection {
-  background: #d16262;
+  background: #4363ae;
   text-shadow: none;
   color: #FFFFFF; }
 
