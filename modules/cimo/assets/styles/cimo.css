@@ -1895,17 +1895,17 @@ textarea {
   position: absolute;
   width: 303px;
   height: 491px;
-  background: url("../images/smoke-texture2.png") no-repeat;
+  background: url("../images/smoke-texture2.png") ;
   z-index: 1; }
 
 .smoke1 {
-  background: url("../images/smoke1.png") no-repeat; }
+  background: url("../images/smoke1.png") ; }
 
 .smoke2 {
-  background: url("../images/smoke2.png") no-repeat; }
+  background: url("../images/smoke2.png") ; }
 
 .smoke3 {
-  background: url("../images/smoke3.png") no-repeat; }
+  background: url("../images/smoke3.png") ; }
 
 .home-contact, .home-about {
   padding: 1 20px 0 130px 0;
