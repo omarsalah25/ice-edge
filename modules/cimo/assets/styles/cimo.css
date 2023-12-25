@@ -9017,6 +9017,7 @@ textarea {
     }
     
     @media only screen and (max-width: 767px) {
+   
       .previous_btn {
         left: 50px;
       }
@@ -9024,3 +9025,9 @@ textarea {
         right: 50px;
       }
     }
+
+    .googlemapssss{
+      padding-left: 14px;
+      padding-right: 14px;
+    }
+
