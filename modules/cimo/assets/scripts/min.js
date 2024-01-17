@@ -1027,11 +1027,11 @@ $('.responsive').slick({
 	infinite: true,
 	autoplay: true,
 	loop: true,
-	speed: 300,
+	speed: 600,
 	slidesToShow: 3,
 	slidesToScroll: 1,
-	prevArrow: false,
-	nextArrow: false,
+	prevArrow: true,
+	nextArrow: true,
 	responsive: [
 		{
 			breakpoint: 1024,
